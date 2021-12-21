@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch JSONBeispiel",
+            "request": "launch",
+            "mainClass": "JSONBeispiel",
+            "projectName": "PROG2_WS21_22_86b03fd6"
+        },
+        {
+            "type": "java",
+            "name": "Launch JSONExample",
+            "request": "launch",
+            "mainClass": "JSONExample",
+            "projectName": "PROG2_WS21_22_86b03fd6"
+        },
+        {
+            "type": "java",
             "name": "Launch MinimalEmail",
             "request": "launch",
             "vmArgs": "--module-path C:/Users/josch/Downloads/openjfx-17.0.1_windows-x64_bin-sdk/javafx-sdk-17.0.1/lib --add-modules javafx.controls,javafx.fxml",
